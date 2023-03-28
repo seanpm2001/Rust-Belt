@@ -15,32 +15,36 @@
 
 ### Web development
 
-- [`https://github.com/seanpm2001/3D-WebPage-Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/)
-- [`https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rust`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rust/)
-- [`https://github.com/seanpm2001/NexxFetch`](https://github.com/seanpm2001/NexxFetch/)
+- [:octocat: `3D-WebPage-Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/)
+- [:octocat: `SNU_2D_ProgrammingTools_IDE_Rust`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rust/)
+- [:octocat: `NexxFetch`](https://github.com/seanpm2001/NexxFetch/)
 
 ### Audio tools
 
-- [`https://github.com/seanpm2001/SWave_Starter`](https://github.com/seanpm2001/SWave_Starter/)
+- [:octocat: `https://github.com/seanpm2001/SWave_Starter`](https://github.com/seanpm2001/SWave_Starter/)
 
 ### Education
 
-- [`https://github.com/seanpm2001/Learn-Rust`](https://github.com/seanpm2001/Learn-Rust/)
+- [:octocat: `https://github.com/seanpm2001/Learn-Rust`](https://github.com/seanpm2001/Learn-Rust/)
 
 ### Git-image
 
-- [`https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory`](https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory/)
-- [`https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/)
-- [`https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox/)
-- [`https://github.com/seanpm2001/SeansLifeArchive_Images_Jetpack-Joyride`](https://github.com/seanpm2001/SeansLifeArchive_Images_Jetpack-Joyride/)
-- [`https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-FireFox-Crash-Reports`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-FireFox-Crash-Reports/)
+- [:octocat: `SeansLifeArchive_Images_MotorWorld_CarFactory`](https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory/)
+- [:octocat: `SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/)
+- [:octocat: `SeansLifeArchive_Images_Mozilla-firefox`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox/)
+- [:octocat: `SeansLifeArchive_Images_Jetpack-Joyride`](https://github.com/seanpm2001/SeansLifeArchive_Images_Jetpack-Joyride/)
+- [:octocat: `SeansLifeArchive_Images_Mozilla-FireFox-Crash-Reports`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-FireFox-Crash-Reports/)
+
+### Programming languages
+
+- [:octocat: `BlockQL`](https://github.com/seanpm2001/BlockQL/)
 
 ### Meta
 
-- [`https://github.com/seanpm2001/Rust-Belt`](https://github.com/seanpm2001/Rust-Belt/)
+- [:octocat: `Rust-Belt`](https://github.com/seanpm2001/Rust-Belt/)
 
 ***
 
-**File version:** `1 (2023, Friday, January 20th at 12:45 pm PST)`
+**File version:** `2 (2023, Tuesday, March 28th at 2:18 pm PST)`
 
 ***
